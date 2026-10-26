@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lpm-gnn-piezoelectricity"
+version = "0.1.0"
+description = "Piezoelectric lattice-particle models and physics-guided graph computations"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24,<3",
+    "scipy>=1.12,<2",
+    "torch>=2.5,<3",
+    "matplotlib>=3.7,<4",
+    "pyamg>=5.2,<6",
+    "threadpoolctl>=3.5,<4",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["F821", "F822", "F823", "E9"]

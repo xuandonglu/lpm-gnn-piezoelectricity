@@ -1,0 +1,268 @@
+[
+  {
+    "source": "lpm_python/piezo_message_geometry.py",
+    "destination": "src/lpm_gnn/physics/piezo_message_geometry.py",
+    "mode": "adapted",
+    "source_sha256": "14af74496d1cfcb467be1e1c3a3b32f3ceb0f45246c91927f061f53d6efa2d94",
+    "release_sha256": "8b4ffaf708345a80128d0fcef0f2dbd4afd81f0a0c35623fc59b0f2a1898fd8d"
+  },
+  {
+    "source": "lpm_python/piezo_message_graph.py",
+    "destination": "src/lpm_gnn/physics/piezo_message_graph.py",
+    "mode": "adapted",
+    "source_sha256": "1538eb68d7ad7554a1d93cba821ad993e272007e1a2ddd4303919bbd8d697fb6",
+    "release_sha256": "8c152dfbc8853f900c49a6b46b39031eae9f307a34407d15228fe39908bcdef0"
+  },
+  {
+    "source": "lpm_python/piezo_message_solve.py",
+    "destination": "src/lpm_gnn/physics/piezo_message_solve.py",
+    "mode": "adapted",
+    "source_sha256": "f2e13a41024ce999b1126dd8d3811743681306e9e43c387053777929872fd2b7",
+    "release_sha256": "39cb2800d8b9fde6e631930061d39f42ecb701f0db6d57966a2a4dbf72fa0155"
+  },
+  {
+    "source": "lpm_python/piezo_graph_iterations.py",
+    "destination": "src/lpm_gnn/physics/piezo_graph_iterations.py",
+    "mode": "adapted",
+    "source_sha256": "2dc8152ff0e3772422d65bfd687e0cc5fe8174422389c06ee39ef8eaddf6af2e",
+    "release_sha256": "5b3706c3e2f698e647665c45d00686f7f7b3ab48ad26bced58e931968084eace"
+  },
+  {
+    "source": "lpm_python/piezo_graph_batch_iterations.py",
+    "destination": "src/lpm_gnn/physics/piezo_graph_batch_iterations.py",
+    "mode": "adapted",
+    "source_sha256": "9d90f6739d7fe7a3d1499fcc1e90c1972847b6b9903c465bb56b5007b52cfcbd",
+    "release_sha256": "b69a46a7a851dcd95ffaa2d40652bca60648d2d85db22c20eaca3e525b7532a6"
+  },
+  {
+    "source": "lpm_python/piezo_graph_multilevel.py",
+    "destination": "src/lpm_gnn/physics/piezo_graph_multilevel.py",
+    "mode": "adapted",
+    "source_sha256": "d8ad08059eb9cae5312ffec123f5d6ef7a37253ed579a032569c8bd357e51fcc",
+    "release_sha256": "196bdf6aee5d56cba4e84a2a542a79abfd593b7dd8a919b1d7ee0cf4955b0310"
+  },
+  {
+    "source": "lpm_python/piezo_frame_message_problem.py",
+    "destination": "src/lpm_gnn/physics/piezo_frame_message_problem.py",
+    "mode": "adapted",
+    "source_sha256": "976476c82ede4e0f4771581a411b1e086f16967e192c830451036b57cf9ef1df",
+    "release_sha256": "dd05590d50aca3dd16d6bbb471bcfcd82c4c68607e93d7952700eddd5343f031"
+  },
+  {
+    "source": "lpm_python/piezo_frame_message_multigrid.py",
+    "destination": "src/lpm_gnn/physics/piezo_frame_message_multigrid.py",
+    "mode": "adapted",
+    "source_sha256": "ded484bd06a9203221709d6d101bee41fc0f89c60a26ca2a095653e677917c77",
+    "release_sha256": "d4d7c502945c0c7a9495edb3df02384fb19c3a440212a709f45666a4f9e64d03"
+  },
+  {
+    "source": "lpm_python/piezo_message_multigrid.py",
+    "destination": "src/lpm_gnn/physics/piezo_message_multigrid.py",
+    "mode": "adapted",
+    "source_sha256": "49411bc0ad0295f78168d025b3aa03cd72d8da9df6d9574a1516e9b02ac385bd",
+    "release_sha256": "e2b9edf76a4981d6d8c3a2d068520ce8368df1801b16eaab5887bf437e76c135"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_direct_messages.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_direct_messages.py",
+    "mode": "adapted",
+    "source_sha256": "86c669c445d81a0b55d3a2adbbbd54277a60310810b4f2fac3be93734a435d26",
+    "release_sha256": "9311b646c9f35b304d64603dbb761e9eb1893de79e2f3b0940ab6a229fec6ce1"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_message_solve.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_message_solve.py",
+    "mode": "adapted",
+    "source_sha256": "7948edb926b6505a7324728870972d2fdc25380cbd0f308d96c4bac5db9a9d3a",
+    "release_sha256": "75d0de6f1d88822668ecb6fd7951b8cd131e002beef653029e3fc73bb5310132"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_message_multigrid.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_message_multigrid.py",
+    "mode": "adapted",
+    "source_sha256": "a21e3375e76ea092117d4a774ad6e8a56961ceb995a957dded9a8343ee4e402a",
+    "release_sha256": "562198ab87f3baac6913357dcb8b19d7ebbfb86582cdbbdef38001a897ed600c"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_parameter_graph.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_parameter_graph.py",
+    "mode": "adapted",
+    "source_sha256": "eea3856fd124ff69f46f3687300a1574ff28c5b7284d2ea34583cb430b352ff4",
+    "release_sha256": "067c9ed0ca103dfeb1b823e90411162fb75a5ed296ed1ff30220e962ed7bfc62"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_complex_loss_messages.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_complex_loss_messages.py",
+    "mode": "adapted",
+    "source_sha256": "629d46a2eb00c985fccf24fc342acfc8e8f9bf81be18a53d3bfc4e84b03d48f2",
+    "release_sha256": "37b68816727d9c87a414f51c7d61bd34c3c377a02a6c0d5a8a0268ebde05760b"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_complex_parameter_graph.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_complex_parameter_graph.py",
+    "mode": "adapted",
+    "source_sha256": "d5588690e6ac45b4e330791d30aa45f108da61668b0ec3b9716a2c901911cac7",
+    "release_sha256": "5fe337d294038922a07d300e755dda6a2bba58eac574ac65db6b67fc880bf3df"
+  },
+  {
+    "source": "lpm_python/piezo_axisym_complex_solve.py",
+    "destination": "src/lpm_gnn/physics/piezo_axisym_complex_solve.py",
+    "mode": "adapted",
+    "source_sha256": "6746f883a8c3bbc5f085595ed05216bab8e1dabd984c999f6ccf30ddbec991ab",
+    "release_sha256": "44e75c92b1c6c17819b2753e53e294f294480b4ea8ac489a6b7d676edadf14d5"
+  },
+  {
+    "source": "lpm_python/piezoelectric.py",
+    "destination": "src/lpm_gnn/reference/planar_fem.py",
+    "mode": "selected reference functions",
+    "source_sha256": "7969218f7780fe21a1c9a1413c76de3749fc631fa6395602022450499bbcfce8",
+    "release_sha256": "368287c96fdb96875f21c1bdd8b3ff47df888d33d57a637af880142097381337"
+  },
+  {
+    "source": "research/piezo_rpueis_bare_20261015/axisymmetric_piezo.py",
+    "destination": "src/lpm_gnn/reference/axisymmetric_fem.py",
+    "mode": "adapted",
+    "source_sha256": "c5d940743704adf32a76888f32ba8693a1b1f7fccb82ee9896d9df31de0264ba",
+    "release_sha256": "f3d6d58fe104d5580a7a9912250efac8c9dac7670d296cc342f3b179e799c5b2"
+  },
+  {
+    "source": "research/lattice_rotation_20261024/rotated_graph.py",
+    "destination": "src/lpm_gnn/physics/rotated_lattice.py",
+    "mode": "adapted",
+    "source_sha256": "5930b13df4be68602b9bacfb446fab56b7b12c228903705e3259a310ce15b588",
+    "release_sha256": "df38dc429a389ccaedb2bac40812bfb76eeede07ee9c08c7b695206a5b57e119"
+  },
+  {
+    "source": "research/lattice_rotation_20261024/fixed_frame.py",
+    "destination": "src/lpm_gnn/physics/fixed_frame.py",
+    "mode": "adapted",
+    "source_sha256": "9721d3b68ae5d3ad0bec9eecd11148719736a5a0925197c146848793bc80fa39",
+    "release_sha256": "68fa285529fa4beafa59d88a03726b9ab67269d3a7204775197a421bc68c3aec"
+  },
+  {
+    "source": "research/lattice_rotation_20261024/fixed_frame_vcycle.py",
+    "destination": "src/lpm_gnn/physics/rotated_multigrid.py",
+    "mode": "adapted",
+    "source_sha256": "9ddfaa4abcc9f8946d9600a147e76b01efe3a3a93246403712bfe6699191e205",
+    "release_sha256": "ade90caaee669e4de557952fb55ad9c3a8afeb12c81042685d05f8ebd2909538"
+  },
+  {
+    "source": "research/bimorph_application_20261022/run_bimorph.py",
+    "destination": "src/lpm_gnn/physics/bimorph.py",
+    "mode": "adapted",
+    "source_sha256": "3fe4b48984e8ac38ceafefab5c8ee0f7f310b93786f09b954cc143b681559c48",
+    "release_sha256": "5c0afa6287b0587365af61c07d2ad35edf6728f83eee17346391d48b1ef87fc8"
+  },
+  {
+    "source": "research/piezo_learned_fas_20261021/core.py",
+    "destination": "src/lpm_gnn/nonlinear/physics.py",
+    "mode": "adapted",
+    "source_sha256": "c3dc2bdd30b7494026f5191dc433cd95507563e15f41304e4384c517b8c2c075",
+    "release_sha256": "3c434d1d757153b669a313d38ef0504df552c34fc39098c62f57fa310c7b39b8"
+  },
+  {
+    "source": "research/piezo_nonlinear_enthalpy_20261020/response_baselines_v2/baseline_core.py",
+    "destination": "src/lpm_gnn/nonlinear/graph_layers.py",
+    "mode": "selected geometry functions",
+    "source_sha256": "1905ad1e6cf811cf410834341c62f0e539f0929965af8de9fac01cbeb9d2d77b",
+    "release_sha256": "0fbe42da3b3c8d4eab04e89b1a346ee639eaabebdd1fb73c4ff5523a79267d23"
+  },
+  {
+    "source": "research/piezo_learned_coupled_cycle_20261021/probe.py",
+    "destination": "src/lpm_gnn/nonlinear/multigrid.py",
+    "mode": "selected coupled cycle",
+    "source_sha256": "e4a73e4ebd0169351cb93d0516b835fe06a403c0a4026b3b1755f60f66b165df",
+    "release_sha256": "bb01897f79dd1f1435a40fd85c65a2689e9fb61e7c0e382218b287f413305ef5"
+  },
+  {
+    "source": "research/piezo_learned_coupled_cycle_20261021/model.py",
+    "destination": "src/lpm_gnn/nonlinear/models.py",
+    "mode": "adapted",
+    "source_sha256": "674be38d3ec237947ead191469d5ba4c6cd3d17e29eb2a7dfb99692bb4091fcd",
+    "release_sha256": "e58c678382ef62c9ceb98d09c99f8beb969f0fbf64ac4951a8b78a5e5305ab01"
+  },
+  {
+    "source": "research/pi_gnn_diagnosis_20261021/stable_normalization_check.py",
+    "destination": "src/lpm_gnn/nonlinear/models.py",
+    "mode": "fixed training-input PI normalization",
+    "source_sha256": "4ceac88720cf9f034c0373bb375d72be2a89e58d9dac0518afb8bedd976716f4",
+    "release_sha256": "e58c678382ef62c9ceb98d09c99f8beb969f0fbf64ac4951a8b78a5e5305ab01"
+  },
+  {
+    "source": "research/piezo_learned_coupled_cycle_20261021/schedule.py",
+    "destination": "src/lpm_gnn/nonlinear/models.py",
+    "mode": "three-stage schedule predictor",
+    "source_sha256": "113487ad497865863e483f1620cdfa56c683d8980016e3eb87b36b79a12a4cb8",
+    "release_sha256": "e58c678382ef62c9ceb98d09c99f8beb969f0fbf64ac4951a8b78a5e5305ab01"
+  },
+  {
+    "source": "research/piezo_learned_coupled_cycle_20261021/cpu_backend.py",
+    "destination": "src/lpm_gnn/nonlinear/cpu_backend.py",
+    "mode": "selected final predictor backends",
+    "source_sha256": "7429b5d31f1a328f5740c6e98d77b63813ab9070e89a0ffd9586e3d63fd5715d",
+    "release_sha256": "fb5c7e804dcd7abec3a3f6b46a564e6368cc51475ec3a433515334257467a01b"
+  },
+  {
+    "source": "research/piezo_learned_coupled_cycle_20261021/numerical.py",
+    "destination": "src/lpm_gnn/nonlinear/numerical.py",
+    "mode": "Newton-FGMRES",
+    "source_sha256": "804bdbb5d81f6dbdb17113838582db03b7e1179461f6bf9d9f792dafd66457f6",
+    "release_sha256": "5c1fb01d59f570e6fce5d714980cb6135d4fb8822ed6d8ae8e5581de67199e1e"
+  },
+  {
+    "source": "research/piezo_independent_comparison_20261021/prefix_solver.py",
+    "destination": "src/lpm_gnn/nonlinear/numerical.py",
+    "mode": "matched-accuracy prefix replay",
+    "source_sha256": "c3dcb8a33088d009401cabbf218d4f4cebeee5cb3c558449d455ff5a1c9928af",
+    "release_sha256": "5c1fb01d59f570e6fce5d714980cb6135d4fb8822ed6d8ae8e5581de67199e1e"
+  },
+  {
+    "source": "research/piezo_axisym_messages_20261016/run_csic_complex_parameter_inverse.py",
+    "destination": "src/lpm_gnn/physics/calibration.py",
+    "mode": "calibration contractions",
+    "source_sha256": "942a0d8c290ade136bdcc941da5192f5fba6dc82f7682a938fa9e0fb01308572",
+    "release_sha256": "5c1b81bcabf452b06de836219cb51b01b6938de08da6c43d39c02e3bd97bc625"
+  },
+  {
+    "source": "research/piezo_learned_fas_20261021/networks.py",
+    "destination": "src/lpm_gnn/nonlinear/graph_layers.py",
+    "mode": "selected graph kernel",
+    "source_sha256": "f28fcfab1a11e7abecf634854e144e9b28b5fb04813ffb32421ecfdac7c66678",
+    "release_sha256": "0fbe42da3b3c8d4eab04e89b1a346ee639eaabebdd1fb73c4ff5523a79267d23"
+  },
+  {
+    "source": "research/lattice_rotation_20261024/verify_rotation.py",
+    "destination": "src/lpm_gnn/physics/fixed_frame.py",
+    "mode": "independent full-tensor rotation",
+    "source_sha256": "b287aeba0612ca157957865faf17f4876f5acbf6d2e659ba64f26f1b86cde0fc",
+    "release_sha256": "68fa285529fa4beafa59d88a03726b9ab67269d3a7204775197a421bc68c3aec"
+  },
+  {
+    "source": "research/bimorph_application_20261022/run_nested_fine.py",
+    "destination": "src/lpm_gnn/examples/bimorph.py",
+    "mode": "adapted nested particle initial fields",
+    "source_sha256": "2abe59dab0a1eefcddb25bae03b763c5f5e4a85fcdd087fe2c74e7de79ae319a",
+    "release_sha256": "36e4b64f5e7417c8ee96c533c12e16e89d09fe6ee26c5a17a63ce1a6f5643263"
+  },
+  {
+    "source": "research/bimorph_application_20261022/condense_open_electrode.py",
+    "destination": "src/lpm_gnn/examples/bimorph.py",
+    "mode": "adapted open-circuit linear condensation",
+    "source_sha256": "0b4c40bae92cbd2423cbae0c517d15a75dce488ebb8808a26c6b5ea5dde20eae",
+    "release_sha256": "36e4b64f5e7417c8ee96c533c12e16e89d09fe6ee26c5a17a63ce1a6f5643263"
+  },
+  {
+    "source": "research/piezo_frame_messages_20261016/run_frame_message_forward.py",
+    "destination": "src/lpm_gnn/examples/double_window.py",
+    "mode": "adapted standalone forward driver with fresh independent FEM",
+    "source_sha256": "0dad046e3f95b1f1fd759483a2eb789c29f0a81acf36bb6e1f5d19dfc37bca53",
+    "release_sha256": "b47a0bb8f4b7bda2f39707201b67aff3b61459e6d711af5385df604e965dcab2"
+  },
+  {
+    "source": "research/piezo_axisym_messages_20261016/run_extrapolation_20261020.py",
+    "destination": "src/lpm_gnn/examples/disk.py",
+    "mode": "adapted six-coordinate restricted-band calibration and frozen prediction",
+    "source_sha256": "a84fb80e9408dd79eefb7a81ca8d70b9e3a7db6e4fed91a935ec0d84923ab24c",
+    "release_sha256": "28424852cf4b2ca2edf734ad96c09b299f26ed543f9e33513e1d105761770752"
+  }
+]

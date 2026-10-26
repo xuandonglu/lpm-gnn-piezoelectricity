@@ -1,0 +1,27 @@
+# Generated measurements, numerical data, models and results
+/data/
+/outputs/
+*.npz
+*.npy
+*.pt
+*.pth
+*.pkl
+*.h5
+*.hdf5
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
